@@ -1,5 +1,7 @@
 '''
+
 Problem 28. Implement strStr()
+
 '''
 
 class Solution:
@@ -13,3 +15,13 @@ class Solution:
                 return cnt
             cnt+=1
         return -1
+    
+
+'''
+
+74 / 74 test cases passed.
+Status: Accepted
+Runtime: 36 ms
+Memory Usage: 13.2 MB
+
+'''
