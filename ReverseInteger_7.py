@@ -23,7 +23,6 @@ class Solution:
             return int('-'+str(rev_out))
         else:
             return self.rev(x)
-        `
 
 
 '''
