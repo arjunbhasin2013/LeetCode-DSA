@@ -1,4 +1,4 @@
-# LeetCode
+# LeetCode - InterviewBit (Scaler)
 
 Posting my solved LeetCode solutions & DSA problems. 
 
