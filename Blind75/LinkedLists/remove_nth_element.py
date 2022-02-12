@@ -1,4 +1,4 @@
-#remove nth node from end of LL
+#https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 
 class Node:
     def __init__(self, data):
