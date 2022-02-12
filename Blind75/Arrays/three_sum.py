@@ -14,7 +14,7 @@ def three_sum(arr, target):
             left, right = 0, len(arr)-1
             
             while left<right:
-                three_sum = val + arrleft] + arr[right]
+                three_sum = val + arr[left] + arr[right]
                 if three_sum > target:
                     right-=1
                 elif three_sum < target:
