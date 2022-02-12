@@ -1,4 +1,4 @@
-# 2-sum 2 problem
+#https://leetcode.com/problems/two-sum/
 
 arr = [1,3,4,5,7,11]
 target = 7
