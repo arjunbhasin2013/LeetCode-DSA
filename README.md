@@ -1,6 +1,6 @@
-# LeetCode - InterviewBit (Scaler)
+# Data Structures & Algorithms
 
-Posting my solved LeetCode, InterviewBit (Scaler) solutions & DSA problems. 
+Posting my solved LeetCode, InterviewBit (Scaler) solutions & DSA problems from various sheets/platforms. 
 
 ## Author 
 
