@@ -26,5 +26,9 @@ def optimal_solution(arr): #using set
     return False
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     arr = [2,30,-2]
+=======
+    arr = [2,1,3,-4,-2]
+>>>>>>> a640dbb916efe6db2be59c953c406b14b81f8430
     print(optimal_solution(arr))
